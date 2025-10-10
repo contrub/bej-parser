@@ -1,0 +1,6 @@
+{
+	"AllowedSpeedsMHz": [2400, 3200],
+	"CapacityMiB": 65536,
+	"DataWidthBits": 64,
+	"ErrorCorrection": "NoECC"
+}
